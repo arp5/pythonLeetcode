@@ -1,16 +1,10 @@
-class TreeNode:
-    def __init__(self,val):
-        self.val = val
-        self.left = None
-        self.right = None
-
+from treeNode import TreeNode
 class Solution:
     def rangeSumBST(self, root:TreeNode, high, low):
         self.sum_nodes = 0
         def rsbst(root,high,low):
             if not root:
                 return
-            print(self.sum_nodes, root.val)
             if root.val < low:
                 rsbst(root.right, high,low)
             elif root.val > high:
