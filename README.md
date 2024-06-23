@@ -48,6 +48,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arp5/pythonLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0152-maximum-product-subarray) |
@@ -60,6 +61,7 @@
 # Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 # Memoization
 |  |
@@ -82,3 +84,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
