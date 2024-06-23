@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0747-min-cost-climbing-stairs) |
 # Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0747-min-cost-climbing-stairs) |
 # Math
 |  |
 | ------- |
