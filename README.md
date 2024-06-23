@@ -34,6 +34,7 @@
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/arp5/pythonLeetcode/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
 # Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/arp5/pythonLeetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
 # Math
 |  |
 | ------- |
