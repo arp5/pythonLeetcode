@@ -19,10 +19,12 @@
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
 # String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
 # Matrix
 |  |
 | ------- |
@@ -32,3 +34,7 @@
 | ------- |
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
