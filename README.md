@@ -17,6 +17,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arp5/pythonLeetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0747-min-cost-climbing-stairs) |
 # Backtracking
 |  |
@@ -28,6 +29,7 @@
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 # String
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arp5/pythonLeetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/arp5/pythonLeetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
