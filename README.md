@@ -61,6 +61,7 @@
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/arp5/pythonLeetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/arp5/pythonLeetcode/tree/master/0198-house-robber) |
@@ -120,6 +121,7 @@
 | [0100-same-tree](https://github.com/arp5/pythonLeetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -147,6 +149,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -161,6 +164,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
