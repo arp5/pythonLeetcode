@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
 | [0416-partition-equal-subset-sum](https://github.com/arp5/pythonLeetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arp5/pythonLeetcode/tree/master/0518-coin-change-ii) |
@@ -185,3 +186,16 @@
 | [0098-validate-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
+# Design
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
+# Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
+# Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
