@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arp5/pythonLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/arp5/pythonLeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arp5/pythonLeetcode/tree/master/0213-house-robber-ii) |
@@ -82,6 +83,7 @@
 | [0048-rotate-image](https://github.com/arp5/pythonLeetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arp5/pythonLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 # Memoization
 |  |
 | ------- |
@@ -208,3 +210,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+# Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arp5/pythonLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
