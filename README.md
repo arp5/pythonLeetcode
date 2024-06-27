@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/arp5/pythonLeetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/arp5/pythonLeetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arp5/pythonLeetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/arp5/pythonLeetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
@@ -44,6 +45,7 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arp5/pythonLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -75,6 +77,7 @@
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arp5/pythonLeetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/arp5/pythonLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 # Memoization
