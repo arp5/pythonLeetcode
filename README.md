@@ -88,6 +88,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 # Two Pointers
@@ -110,6 +111,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 # Graph
 |  |
@@ -123,3 +125,11 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
+# Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
