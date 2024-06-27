@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/arp5/pythonLeetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arp5/pythonLeetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/arp5/pythonLeetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/arp5/pythonLeetcode/tree/master/0090-subsets-ii) |
@@ -43,6 +44,7 @@
 # Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/arp5/pythonLeetcode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 # Bit Manipulation
@@ -114,3 +116,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0054-spiral-matrix) |
