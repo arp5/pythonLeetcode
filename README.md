@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 # Graph
@@ -131,9 +132,11 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
