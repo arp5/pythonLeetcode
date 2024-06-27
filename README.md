@@ -175,6 +175,7 @@
 # String Matching
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/arp5/pythonLeetcode/tree/master/0572-subtree-of-another-tree) |
 # Hash Function
 |  |
@@ -199,3 +200,11 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/arp5/pythonLeetcode/tree/master/0362-design-hit-counter) |
+# Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+# Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
