@@ -121,6 +121,7 @@
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0572-subtree-of-another-tree](https://github.com/arp5/pythonLeetcode/tree/master/0572-subtree-of-another-tree) |
@@ -146,6 +147,7 @@
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/arp5/pythonLeetcode/tree/master/0572-subtree-of-another-tree) |
 # Binary Tree
@@ -158,6 +160,7 @@
 | [0110-balanced-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arp5/pythonLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/arp5/pythonLeetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/arp5/pythonLeetcode/tree/master/0572-subtree-of-another-tree) |
 # String Matching
@@ -172,4 +175,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/arp5/pythonLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
