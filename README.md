@@ -214,3 +214,18 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arp5/pythonLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics End-->
