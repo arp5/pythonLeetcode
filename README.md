@@ -248,4 +248,20 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+## Union Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+## Graph
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
