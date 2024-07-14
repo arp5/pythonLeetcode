@@ -222,6 +222,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,4 +236,16 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
