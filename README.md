@@ -251,10 +251,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
 ## Union Find
 |  |
@@ -263,5 +265,10 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
