@@ -6,10 +6,9 @@ class Solution:
         for n1,n2 in edges:
             adjList[n1].append(n2)
             adjList[n2].append(n1)
-        print(adjList)
         prev = -1
         visited = set()
-        def dfs(node, prev):
+        def dfs(node,prev):
             #base
             if node in visited:
                 return False
@@ -17,7 +16,9 @@ class Solution:
             for n in adjList[node]:
                 if n==prev:
                     continue
-                if not dfs(n,node):
-                    return False
+                else:
+                    if not dfs(n,node):
+                        return False
             return True
         return dfs(0,-1) and len(visited)==n
+
