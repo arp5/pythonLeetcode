@@ -1,32 +1,27 @@
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        adjList = {}
-        for i in range(n):
-            adjList[i] = []
+        par = [i for i in range(n)]
+        rank = [1]*n
+        def find(node):
+            res = node
+            while res!=par[res]:
+                par[res] = par[par[res]]
+                res = par[res]
+            return res
+
+        def union(n1,n2):
+            p1,p2 = find(n1), find(n2)
+            if p1==p2:
+                return 0
+            if rank[p1]>rank[p2]:
+                par[p2] = par[p1]
+                rank[p1]+=1
+            else:
+                par[p1] = par[p2]
+                rank[p2]+=1
+            return 1
+        comp = n
         for n1,n2 in edges:
-            adjList[n1].append(n2)
-            adjList[n2].append(n1)
-        #queue = []
-        visited= set()
-        comp = 0
-        # for i in range(n):
-        #     if i not in visited:
-        #         visited.add(i)
-        #         queue.append(i)
-        #         comp+=1
-        #         while queue:
-        #             node = queue.pop(0)
-        #             for n in adjList[node]:
-        #                 if n not in visited:
-        #                     visited.add(n)
-        #                     queue.append(n)
-        def dfs(node):
-            visited.add(node)
-            for n in adjList[node]:
-                if n not in visited:
-                    dfs(n)
-        for i in range(n):
-            if i not in visited:
-                comp+=1
-                dfs(i)
+            comp-=union(n1,n2)
+            print(comp)
         return comp
