@@ -262,6 +262,7 @@
 | [0133-clone-graph](https://github.com/arp5/pythonLeetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arp5/pythonLeetcode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/arp5/pythonLeetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -315,4 +316,16 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arp5/pythonLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
