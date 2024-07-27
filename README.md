@@ -232,6 +232,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/arp5/pythonLeetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
@@ -255,6 +256,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -264,6 +266,7 @@
 | [0210-course-schedule-ii](https://github.com/arp5/pythonLeetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/arp5/pythonLeetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/arp5/pythonLeetcode/tree/master/0547-number-of-provinces) |
@@ -274,6 +277,7 @@
 | [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arp5/pythonLeetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/arp5/pythonLeetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/arp5/pythonLeetcode/tree/master/0547-number-of-provinces) |
@@ -320,6 +324,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,4 +333,5 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
