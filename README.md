@@ -225,6 +225,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
 ## Hash Table
@@ -241,6 +242,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 ## Binary Search
 |  |
