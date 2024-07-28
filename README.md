@@ -225,6 +225,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
 ## Dynamic Programming
 |  |
 | ------- |
