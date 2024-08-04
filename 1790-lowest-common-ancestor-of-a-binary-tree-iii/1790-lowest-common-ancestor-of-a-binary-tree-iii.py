@@ -10,19 +10,18 @@ class Node:
 
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
+        node = p
+        while node.parent:
+            node = node.parent
+        root = node
         def lca(root,p,q):
             if not root:
                 return None
-            if root ==p or root==q:
+            if root ==p or root == q:
                 return root
             left = lca(root.left,p,q)
-            right = lca(root.right,p,q)
+            right=lca(root.right,p,q)
             if left and right:
                 return root
             return left or right
-        s = p
-        while s.parent:
-            s = s.parent
-        root = s
         return lca(root,p,q)
-            
