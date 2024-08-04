@@ -315,6 +315,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/arp5/pythonLeetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Iterator
 |  |
 | ------- |
