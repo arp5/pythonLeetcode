@@ -225,6 +225,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arp5/pythonLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/arp5/pythonLeetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
 | ------- |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
