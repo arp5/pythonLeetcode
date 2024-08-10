@@ -242,6 +242,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/arp5/pythonLeetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/arp5/pythonLeetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -372,6 +373,7 @@
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/arp5/pythonLeetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arp5/pythonLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Interactive
@@ -391,6 +393,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/arp5/pythonLeetcode/tree/master/0227-basic-calculator-ii) |
 ## Divide and Conquer
 |  |
