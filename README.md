@@ -228,6 +228,7 @@
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
@@ -240,6 +241,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Matrix
 |  |
@@ -396,4 +398,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
