@@ -231,6 +231,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/arp5/pythonLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arp5/pythonLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/arp5/pythonLeetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
 | ------- |
