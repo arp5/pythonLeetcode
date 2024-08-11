@@ -419,8 +419,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arp5/pythonLeetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/arp5/pythonLeetcode/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arp5/pythonLeetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arp5/pythonLeetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
