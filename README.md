@@ -268,6 +268,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arp5/pythonLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
@@ -396,6 +397,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/arp5/pythonLeetcode/tree/master/0227-basic-calculator-ii) |
 ## Divide and Conquer
@@ -428,4 +430,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arp5/pythonLeetcode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
