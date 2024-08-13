@@ -3,7 +3,9 @@ class Solution:
         n = len(nums)
         dp = [1]*n
         for i in reversed(range(n)):
-            for j in range(i+1,n):
-                if nums[i]<nums[j]:
-                    dp[i] = max(dp[i],1+dp[j])
+            for j in reversed(range(i)):
+                #print(i,j, nums[i], nums[j])
+                if nums[j]<nums[i]:
+                    dp[j] = max(dp[j], 1+dp[i])
+        print(dp)
         return max(dp)
