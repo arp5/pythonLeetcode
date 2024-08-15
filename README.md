@@ -239,6 +239,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arp5/pythonLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/arp5/pythonLeetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
+| [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
 ## Hash Table
@@ -262,6 +263,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/arp5/pythonLeetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
+| [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 ## Binary Search
 |  |
@@ -323,6 +325,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/arp5/pythonLeetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arp5/pythonLeetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
