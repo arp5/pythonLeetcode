@@ -20,6 +20,6 @@ class Solution:
                 if indegree[c]==0:
                     queue.append(c)
         return ans if len(ans)==numCourses else []
-#TC: O(N); SC: O(N)
+#TC: O(V+E); SC: O(V) (in queue) + O(E) in adj list
 
         
