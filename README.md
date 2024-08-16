@@ -304,6 +304,7 @@
 | [0207-course-schedule](https://github.com/arp5/pythonLeetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arp5/pythonLeetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/arp5/pythonLeetcode/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/arp5/pythonLeetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -353,6 +354,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arp5/pythonLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/arp5/pythonLeetcode/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -378,6 +380,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/arp5/pythonLeetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Search Tree
@@ -391,6 +394,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/arp5/pythonLeetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arp5/pythonLeetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
@@ -457,4 +461,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
