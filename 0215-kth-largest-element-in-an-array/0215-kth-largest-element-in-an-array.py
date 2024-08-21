@@ -6,3 +6,4 @@ class Solution:
             if len(heap)>k:
                 heapq.heappop(heap)
         return heap[0]
+#TC: O(NlogK); SC: O(K)
