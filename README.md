@@ -235,6 +235,7 @@
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arp5/pythonLeetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
@@ -467,6 +468,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arp5/pythonLeetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
