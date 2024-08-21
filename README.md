@@ -258,6 +258,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Matrix
 |  |
@@ -366,6 +367,7 @@
 | [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
@@ -382,6 +384,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arp5/pythonLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/arp5/pythonLeetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
@@ -422,6 +425,7 @@
 | [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arp5/pythonLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
+| [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Interactive
 |  |
