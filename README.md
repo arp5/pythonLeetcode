@@ -246,6 +246,7 @@
 | [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Design
 |  |
 | ------- |
@@ -458,16 +461,19 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
