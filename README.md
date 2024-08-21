@@ -234,6 +234,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
@@ -255,6 +256,7 @@
 | [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/arp5/pythonLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -302,6 +304,7 @@
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
@@ -454,14 +457,17 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -496,4 +502,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arp5/pythonLeetcode/tree/master/0739-daily-temperatures) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
