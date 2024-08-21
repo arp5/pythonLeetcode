@@ -220,6 +220,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -296,6 +297,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -414,6 +416,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/arp5/pythonLeetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arp5/pythonLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
