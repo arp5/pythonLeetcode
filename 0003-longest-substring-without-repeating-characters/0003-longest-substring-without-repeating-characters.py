@@ -1,17 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         n = len(s)
-        cmap = {}
-        l = 0
-        maxlen = 0
-        if n ==0:
+        L = 0
+        windowmap = {}
+        maxwindow = 0
+        if len(s)==0:
             return 0
-        for r in range(n):
-            if s[r] not in cmap or cmap[s[r]]<l:
-                cmap[s[r]] = r
+        for R in range(n):
+            if s[R] not in windowmap or windowmap[s[R]]<L:
+                windowmap[s[R]] = R
             else:
-                maxlen = max(maxlen,r-l)
-                l = max(l,cmap[s[r]])+1
-                cmap[s[r]] = r
-        maxlen = max(maxlen,r-l+1)
-        return maxlen 
+                maxwindow = max(maxwindow,R-L)
+                L = max(L,windowmap[s[R]]+1)
+                windowmap[s[R]] = R
+        maxwindow = max(maxwindow,R-L+1)
+        return maxwindow
