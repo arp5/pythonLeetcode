@@ -1,24 +1,22 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
         intervals.sort()
+        heap = []
+        heap.append(intervals[0])
         n = len(intervals)
-        i,j=0,1
-        count = 0
-        start1,end1 = intervals[0]
-        while j<n:
-            start2,end2 = intervals[j]
-            if start2>=end1:
-                j+=1
-                start1 = start2
-                end1 = end2
-            else:
-                if end2 > end1:
-                    #remove end2
-                    j+=1
+        ans = 0
+        print(heap)
+        for i in range(1,n):
+            st,end = intervals[i]
+            pst,pend = heapq.heappop(heap)
+            if st<pend:
+                #overlap
+                ans+=1
+                if pend<end:
+                    heap.append((pst,pend))
                 else:
-                    j+=1
-                    start1 = start2
-                    end1 = end2
-                count+=1
-        return count
-                
+                    heap.append((st,end))
+            else:
+                heapq.heappush(heap,(st,end))
+        return ans
+
