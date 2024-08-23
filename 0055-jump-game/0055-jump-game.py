@@ -7,5 +7,6 @@ class Solution:
             for j in range(i+1,min(i+nums[i]+1,n)):
                 if dp[j]:
                     dp[i] = True
-        print(dp)
+                    break
+        #print(dp)
         return dp[0]
