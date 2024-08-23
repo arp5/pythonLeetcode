@@ -11,3 +11,4 @@ class Solution:
             else:
                 pst,pend = st,end
         return count
+#TC: O(NLogN); SC: O(N or logN)
