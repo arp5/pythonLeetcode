@@ -222,6 +222,7 @@
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arp5/pythonLeetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -289,6 +290,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arp5/pythonLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -468,6 +470,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
