@@ -223,6 +223,7 @@
 | [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arp5/pythonLeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arp5/pythonLeetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arp5/pythonLeetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/arp5/pythonLeetcode/tree/master/0073-set-matrix-zeroes) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arp5/pythonLeetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arp5/pythonLeetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arp5/pythonLeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arp5/pythonLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arp5/pythonLeetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/arp5/pythonLeetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
