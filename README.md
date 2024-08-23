@@ -231,6 +231,7 @@
 | [0198-house-robber](https://github.com/arp5/pythonLeetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/arp5/pythonLeetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arp5/pythonLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arp5/pythonLeetcode/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -306,6 +308,7 @@
 | [0015-3sum](https://github.com/arp5/pythonLeetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
@@ -432,6 +435,7 @@
 | [0141-linked-list-cycle](https://github.com/arp5/pythonLeetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arp5/pythonLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/arp5/pythonLeetcode/tree/master/0202-happy-number) |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arp5/pythonLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
@@ -471,6 +475,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arp5/pythonLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arp5/pythonLeetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -483,6 +488,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/arp5/pythonLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
