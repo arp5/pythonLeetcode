@@ -305,6 +305,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -394,6 +395,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Design
