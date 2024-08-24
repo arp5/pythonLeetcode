@@ -251,6 +251,7 @@
 | [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/arp5/pythonLeetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
@@ -312,6 +313,7 @@
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/arp5/pythonLeetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
