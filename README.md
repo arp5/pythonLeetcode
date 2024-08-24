@@ -242,6 +242,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arp5/pythonLeetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/arp5/pythonLeetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/arp5/pythonLeetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -305,6 +306,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arp5/pythonLeetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/arp5/pythonLeetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -535,6 +537,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/arp5/pythonLeetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/arp5/pythonLeetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/arp5/pythonLeetcode/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
