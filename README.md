@@ -248,6 +248,7 @@
 | [0733-flood-fill](https://github.com/arp5/pythonLeetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/arp5/pythonLeetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/arp5/pythonLeetcode/tree/master/0777-toeplitz-matrix) |
+| [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/arp5/pythonLeetcode/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/arp5/pythonLeetcode/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2045-cutting-ribbons](https://github.com/arp5/pythonLeetcode/tree/master/2045-cutting-ribbons) |
@@ -267,6 +268,7 @@
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Matrix
 |  |
@@ -307,6 +309,7 @@
 | [0055-jump-game](https://github.com/arp5/pythonLeetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/arp5/pythonLeetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/arp5/pythonLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
 |  |
