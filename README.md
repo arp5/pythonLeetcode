@@ -268,6 +268,7 @@
 | [0496-next-greater-element-i](https://github.com/arp5/pythonLeetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arp5/pythonLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Matrix
@@ -309,6 +310,7 @@
 | [0055-jump-game](https://github.com/arp5/pythonLeetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/arp5/pythonLeetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arp5/pythonLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/arp5/pythonLeetcode/tree/master/0876-hand-of-straights) |
 ## Sorting
 |  |
@@ -388,6 +390,7 @@
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/arp5/pythonLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/arp5/pythonLeetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arp5/pythonLeetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Design
@@ -448,6 +451,7 @@
 | [0287-find-the-duplicate-number](https://github.com/arp5/pythonLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0408-valid-word-abbreviation](https://github.com/arp5/pythonLeetcode/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/arp5/pythonLeetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/arp5/pythonLeetcode/tree/master/0768-partition-labels) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/arp5/pythonLeetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Interactive
 |  |
